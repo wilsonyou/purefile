@@ -13,7 +13,11 @@ Welcome to bubi's documentation!
    bu-explore
    bumo-qian-bao
    SUMMARY
-   test.rst
+   test
+   chang-jian-wen-ti
+   chapter1
+   java-sdk-shi-yong
+   yun-wei
 
 Indices and tables
 ==================
