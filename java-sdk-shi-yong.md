@@ -1,0 +1,2 @@
+# JAVA SDK 用法说明
+JAVA SDK的使用包括了[生成用户充值地址](/java-sdk-shi-yong/sheng-cheng-yong-hu-chong-zhi-di-zhi.md)、[检测账户地址的合法性](/java-sdk-shi-yong/jian-ce-zhang-hu-di-zhi-de-he-fa-xing.md)以及[资产交易](/java-sdk-shi-yong/zi-chan-jiao-yi.md)。
